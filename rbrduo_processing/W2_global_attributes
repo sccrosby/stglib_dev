@@ -1,0 +1,25 @@
+SciPi; E. E. Grossman
+PROJECT; Puget Sound COSMOS (PS-COSMOS)
+EXPERIMENT; PS-COSMOS Wave Validation
+DESCRIPTION; Collected wave observations with bottom mounted pressure sensors on the west side of Whidbey Island
+DATA_SUBTYPE; Bottom-mounted
+DATA_ORIGIN; USGS Pacific Marine Science Center
+COORD_SYSTEM; GEOGRAPHIC
+Conventions; CF-1.6
+INSTRUMENT; RBRduo SN-51164
+WATER_DEPTH; 5.3
+WATER_DEPT_NOTE; (meters), nominal depth
+latitude; 48.27486111
+longitude; -122.7454167
+magnetic_variation; 15.90
+Deployment_date; 2018-12-12 23:00
+Recovery_date; 2019-04-22 20:00
+DATA_CMNT; 
+platform_type; Aluminum Frame
+DRIFTER; 0
+POS_CONST; 0
+DEPTH_CONST; 0
+WATER_MASS; Strait of Juan de Fuca, Washington
+VAR_FILL; 1.e+35
+institution; United States Geological Survey, Pacific Coastal and Marine Science Center
+institution_url; http://walrus.wr.usgs.gov

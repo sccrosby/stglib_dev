@@ -4,7 +4,12 @@
 .txt
 .cdf
 .nc
-
+AtmosphericPressure/*.txt
+AtmosphericPressure/*.cdf
+rbrduo_processing/*.cdf
+rbrduo_processing/*.nc
+sofar_processing/*.nc
+sofar_processing/*.cdf
 RecoveryRSK_20190422/
 RecoveryRSK_20200210/
 spotter02_recover202108/
